@@ -1,0 +1,44 @@
+
+#hello:hover{
+    color:brown;
+}
+header{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+form{ 
+    text-align: center;
+    color: brown;
+    height: 500px;
+       
+    }
+input{ border: none;
+    background:#e9e8e8f8;
+    width: 700px;
+    border-radius: 10px;
+    padding: 12px;
+     
+}
+#hello{
+    background: rgb(255, 123, 0);
+background: linear-gradient(90deg, rgba(255,123,0,1) 0%, rgb(255, 229, 199) 100%);
+   font-size: x-large; 
+   color: rgb(255, 229, 199);
+   
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.box{
+    color: black;
+    margin: 10px;
+    border: 15px solid black;
+    background-color:rgb(224, 201, 138) ;
+    border-radius: 5px;
+}
